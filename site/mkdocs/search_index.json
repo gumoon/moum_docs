@@ -2,58 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "\u6b22\u8fce\u6765\u5230 MOUM \u9879\u76ee\u6587\u6863\u4e2d\u5fc3\n\n\n\u8fd9\u91cc\u6709\uff1a\n- \u9879\u76ee\u4ecb\u7ecd\n- \u9879\u76ee\u8ba8\u8bba\u8bb0\u5f55\n- \u9879\u76ee\u8def\u7ebf\u56fe\n- \u9879\u76ee\u7814\u53d1\u8ba1\u5212\n- \u5176\u4ed6", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#moum", 
+            "text": "\u8fd9\u91cc\u6709\uff1a\n- \u9879\u76ee\u4ecb\u7ecd\n- \u9879\u76ee\u8ba8\u8bba\u8bb0\u5f55\n- \u9879\u76ee\u8def\u7ebf\u56fe\n- \u9879\u76ee\u7814\u53d1\u8ba1\u5212\n- \u5176\u4ed6", 
+            "title": "\u6b22\u8fce\u6765\u5230 MOUM \u9879\u76ee\u6587\u6863\u4e2d\u5fc3"
         }, 
         {
             "location": "/about/", 
-            "text": "Neve quoniam tacito\n\n\nSint vix\n\n\nLorem markdownum amorque resonant amissi terrae eras vidi aut imis moriturae\nmaiora, quem ora fert mihi deviaque puppis. Armos felix que malum geminaque\nnostrum. Bimarem divino ambustaque quoque altius potens, nam plurima retia; non?\nGloria decoram de \nProcrin\n Saturnia omnes quoque pectora statuitque visa\ntellus.\n\n\nUbi fata iamdudum harundine favore\n\n\nPiraeaque monitus densi \ncruorem\n spectare montibus Achelous captat, o coniuge\nvisus, et sit. Vel ardor alas obstitit effulget exilio: Lycopen tum est tendit\nadhuc tactumque convivia.\n\n\n\n\nReverentia anili\n\n\nFatiiuvenescere fatentem\n\n\nHic in ambo nescit toro cum auro\n\n\nCurru imago adplauso\n\n\nFugias est opus\n\n\n\n\nIllic profecturas\n\n\nCircumdata \nquidem pabula\n abit tutos; exit residant formosissima adspergine\ntenax pariente Achelous, dea pariter quaeris furta corporibus \nLucinam\n.\nCurrunt pacis facies: iam \nartus\n huic poterat caerulaque, Tmolo.\n\n\nBis arbor dependent aries exemplum stetit morte\n\n\nPugnantem miserrima erat aquarum; sit nudo nec paratis strage Bacchi sine enim\narbore praequestus mente haec carinas. Posita iam. Bellona imitantes concava\niniuria et canenti \nconspexit\n, Echo sanguine exhalat sequantur Tiresia.\nNostrasque undis; coniectum videant resistit iuvat \nSparserat\n; nostraque\nfretum, tendi victa.\n\n\nFerre ibant promittit plura corpora deorum paenitet\n\n\nNulla \nsocio tumescere\n amplexas campi posse puerum\nfixus. Manus carebis, modo humum matris Laconide oculos? Ordine profuso, gelidum\nde ne Apidanosque restabat umquam certaminis soror per mediis cursus praeda!\n\n\n\n\nDum habent est illas viva cum facientia\n\n\nFilius alma cadunt\n\n\nIn amara si mentito funera\n\n\nDapibus est ferat nil parum\n\n\nErgo iussus erat sororis\n\n\nTanti inclusum\n\n\n\n\nSe extulit nutrix. Trahuntur virorum omnia, radiante quadripedis tigres viscera:\nfacies post qui deseruit vocat; non nec est! Urnaque flebat. Ora seposuit membra\nnon bello, pro super se pro, comes operatus quaeque et primis ad celeres!", 
+            "text": "\u5173\u4e8eMOUM\n\n\n\u9488\u5bf9\u4e2d\u56fd\u671d\u9c9c\u65cf\u548c\u6765\u534e\u97e9\u56fd\u4eba\u5e02\u573a\u63a8\u51fa\u7684\u751f\u6d3b\u670d\u52a1\u5e73\u53f0\u3002", 
             "title": "About"
         }, 
         {
-            "location": "/about/#neve-quoniam-tacito", 
-            "text": "", 
-            "title": "Neve quoniam tacito"
-        }, 
-        {
-            "location": "/about/#sint-vix", 
-            "text": "Lorem markdownum amorque resonant amissi terrae eras vidi aut imis moriturae\nmaiora, quem ora fert mihi deviaque puppis. Armos felix que malum geminaque\nnostrum. Bimarem divino ambustaque quoque altius potens, nam plurima retia; non?\nGloria decoram de  Procrin  Saturnia omnes quoque pectora statuitque visa\ntellus.", 
-            "title": "Sint vix"
-        }, 
-        {
-            "location": "/about/#ubi-fata-iamdudum-harundine-favore", 
-            "text": "Piraeaque monitus densi  cruorem  spectare montibus Achelous captat, o coniuge\nvisus, et sit. Vel ardor alas obstitit effulget exilio: Lycopen tum est tendit\nadhuc tactumque convivia.   Reverentia anili  Fatiiuvenescere fatentem  Hic in ambo nescit toro cum auro  Curru imago adplauso  Fugias est opus", 
-            "title": "Ubi fata iamdudum harundine favore"
-        }, 
-        {
-            "location": "/about/#illic-profecturas", 
-            "text": "Circumdata  quidem pabula  abit tutos; exit residant formosissima adspergine\ntenax pariente Achelous, dea pariter quaeris furta corporibus  Lucinam .\nCurrunt pacis facies: iam  artus  huic poterat caerulaque, Tmolo.", 
-            "title": "Illic profecturas"
-        }, 
-        {
-            "location": "/about/#bis-arbor-dependent-aries-exemplum-stetit-morte", 
-            "text": "Pugnantem miserrima erat aquarum; sit nudo nec paratis strage Bacchi sine enim\narbore praequestus mente haec carinas. Posita iam. Bellona imitantes concava\niniuria et canenti  conspexit , Echo sanguine exhalat sequantur Tiresia.\nNostrasque undis; coniectum videant resistit iuvat  Sparserat ; nostraque\nfretum, tendi victa.", 
-            "title": "Bis arbor dependent aries exemplum stetit morte"
-        }, 
-        {
-            "location": "/about/#ferre-ibant-promittit-plura-corpora-deorum-paenitet", 
-            "text": "Nulla  socio tumescere  amplexas campi posse puerum\nfixus. Manus carebis, modo humum matris Laconide oculos? Ordine profuso, gelidum\nde ne Apidanosque restabat umquam certaminis soror per mediis cursus praeda!   Dum habent est illas viva cum facientia  Filius alma cadunt  In amara si mentito funera  Dapibus est ferat nil parum  Ergo iussus erat sororis  Tanti inclusum   Se extulit nutrix. Trahuntur virorum omnia, radiante quadripedis tigres viscera:\nfacies post qui deseruit vocat; non nec est! Urnaque flebat. Ora seposuit membra\nnon bello, pro super se pro, comes operatus quaeque et primis ad celeres!", 
-            "title": "Ferre ibant promittit plura corpora deorum paenitet"
+            "location": "/about/#moum", 
+            "text": "\u9488\u5bf9\u4e2d\u56fd\u671d\u9c9c\u65cf\u548c\u6765\u534e\u97e9\u56fd\u4eba\u5e02\u573a\u63a8\u51fa\u7684\u751f\u6d3b\u670d\u52a1\u5e73\u53f0\u3002", 
+            "title": "\u5173\u4e8eMOUM"
         }
     ]
 }

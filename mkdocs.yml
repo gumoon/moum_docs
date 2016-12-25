@@ -2,4 +2,4 @@ site_name: MOUM Docs
 pages:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme: mkdocs
