@@ -7,21 +7,21 @@
         
         
         
-        <link rel="shortcut icon" href="/img/favicon.ico">
-        <title>MOUM Docs</title>
-        <link href="/css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="/css/font-awesome-4.5.0.css" rel="stylesheet">
-        <link href="/css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="/css/highlight.css">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>comment - MOUM Docs</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
 	
-	<script src="/js/jquery-1.10.2.min.js"></script>
-        <script src="/js/bootstrap-3.0.3.min.js"></script>
-        <script src="/js/highlight.pack.js"></script> 
+	<script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script> 
     </head>
 
     <body>
@@ -38,7 +38,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="">MOUM Docs</a>
+            <a class="navbar-brand" href="../..">MOUM Docs</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -46,39 +46,39 @@
                 <!-- Main navigation -->
                 <ul class="nav navbar-nav">
                     <li >
-                        <a href="">Home</a>
+                        <a href="../..">Home</a>
                     </li>
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Entity <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             
 <li >
-    <a href="/entity/common">common</a>
+    <a href="../common/">common</a>
 </li>
                             
 <li >
-    <a href="/entity/shop">shop</a>
+    <a href="../shop/">shop</a>
 </li>
                             
 <li >
-    <a href="/entity/user">user</a>
+    <a href="../user/">user</a>
+</li>
+                            
+<li class="active">
+    <a href="./">comment</a>
 </li>
                             
 <li >
-    <a href="/entity/comment">comment</a>
+    <a href="../dial/">dial</a>
 </li>
                             
 <li >
-    <a href="/entity/dial">dial</a>
-</li>
-                            
-<li >
-    <a href="/entity/link">link</a>
+    <a href="../link/">link</a>
 </li>
                         </ul>
                     </li>
                     <li >
-                        <a href="/about">About</a>
+                        <a href="../../about/">About</a>
                     </li>
                 </ul>
 
@@ -88,30 +88,75 @@
                         <i class="fa fa-search"></i> Search
                     </a>
                 </li>
+                    <li >
+                        <a rel="next" href="../user/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../dial/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
             </ul>
         </div>
     </div>
 </div>
 
         <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#comment">COMMENT</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
 
-    <div class="row-fluid">
-      <div id="main-content" class="span12">
-        <h1 id="404-page-not-found" style="text-align: center">404</h1>
-        <p style="text-align: center"><strong>Page not found</strong></p>
-      </div>
-    </div>
-
-
+<h1 id="comment">COMMENT</h1>
+<table>
+<thead>
+<tr>
+<th align="left">字段</th>
+<th align="left">描述</th>
+<th align="left">约束</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">id</td>
+<td align="left">UID</td>
+<td align="left">整数</td>
+</tr>
+<tr>
+<td align="left">shop_id</td>
+<td align="left">商户ID</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">content</td>
+<td align="left">评论内容</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">score</td>
+<td align="left">评星</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">created_at</td>
+<td align="left">创建时间</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table></div>
         </div>
 
         <footer class="col-md-12">
             <hr>
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script>var base_url = '';</script>
-        <script data-main="/mkdocs/js/search.js" src="/mkdocs/js/require.js"></script>
-        <script src="/js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

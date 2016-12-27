@@ -1,5 +1,12 @@
 site_name: MOUM Docs
 pages:
   - Home: index.md
+  - Entity: 
+    - 'common': 'entity/common.md'
+    - 'shop': 'entity/shop.md'
+    - 'user': 'entity/user.md'
+    - 'comment': 'entity/comment.md'
+    - 'dial': 'entity/dial.md'
+    - 'link': 'entity/link.md'
   - About: about.md
 theme: mkdocs
