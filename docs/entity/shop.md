@@ -23,3 +23,4 @@ comments_count | 评论数 | 被评论数
 score| 商户评星 | 用户评星的平均值
 partner | 平台合作商户 | 即vip商户
 err_num | 商户纠错错误码 | 1=电话有误，2=地址错了，3=商户已不存在
+created_at | 创建时间 | 
