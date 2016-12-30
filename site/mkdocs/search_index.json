@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/entity/dial/", 
-            "text": "DIAL\n\n\n\n\n\n\n\n\n\u5b57\u6bb5\n\n\n\u63cf\u8ff0\n\n\n\u7ea6\u675f\n\n\n\n\n\n\n\n\n\n\nid\n\n\n\u5e8f\u53f7\n\n\n\u6574\u6570\n\n\n\n\n\n\ncreated_at\n\n\n\u6253\u7535\u8bdd\u65f6\u95f4", 
+            "text": "DIAL\n\n\n\n\n\n\n\n\n\u5b57\u6bb5\n\n\n\u63cf\u8ff0\n\n\n\u7ea6\u675f\n\n\n\n\n\n\n\n\n\n\nid\n\n\n\u5e8f\u53f7\n\n\n\u6574\u6570\uff0c\u81ea\u589e\n\n\n\n\n\n\ncreated_at\n\n\n\u6253\u7535\u8bdd\u65f6\u95f4\n\n\n\n\n\n\n\n\nuuid\n\n\n\u8bbe\u5907ID\n\n\n\n\n\n\n\n\nclient_id\n\n\n\u5ba2\u6237\u7aefID\n\n\n\n\n\n\n\n\nuid\n\n\n\u7528\u6237ID\n\n\n\n\n\n\n\n\nshop_id\n\n\n\u5546\u6237ID", 
             "title": "dial"
         }, 
         {
             "location": "/entity/dial/#dial", 
-            "text": "\u5b57\u6bb5  \u63cf\u8ff0  \u7ea6\u675f      id  \u5e8f\u53f7  \u6574\u6570    created_at  \u6253\u7535\u8bdd\u65f6\u95f4", 
+            "text": "\u5b57\u6bb5  \u63cf\u8ff0  \u7ea6\u675f      id  \u5e8f\u53f7  \u6574\u6570\uff0c\u81ea\u589e    created_at  \u6253\u7535\u8bdd\u65f6\u95f4     uuid  \u8bbe\u5907ID     client_id  \u5ba2\u6237\u7aefID     uid  \u7528\u6237ID     shop_id  \u5546\u6237ID", 
             "title": "DIAL"
         }, 
         {
