@@ -47,12 +47,12 @@
         }, 
         {
             "location": "/entity/user/", 
-            "text": "USER\n\n\n\n\n\n\n\n\n\u5b57\u6bb5\n\n\n\u63cf\u8ff0\n\n\n\u7ea6\u675f\n\n\n\n\n\n\n\n\n\n\nid\n\n\nUID\n\n\n\u6574\u6570\n\n\n\n\n\n\nname\n\n\n\u7528\u6237\u540d\n\n\n100\u4e2a\u5b57\u7b26\u4ee5\u5185\n\n\n\n\n\n\nprofile_image_url\n\n\n\u7528\u6237\u5934\u56fe", 
+            "text": "USER\n\n\n\n\n\n\n\n\n\u5b57\u6bb5\n\n\n\u63cf\u8ff0\n\n\n\u7ea6\u675f\n\n\n\n\n\n\n\n\n\n\nid\n\n\nUID\n\n\n\u6574\u6570\n\n\n\n\n\n\nname\n\n\n\u7528\u6237\u540d\n\n\n100\u4e2a\u5b57\u7b26\u4ee5\u5185\n\n\n\n\n\n\nprofile_image_url\n\n\n\u7528\u6237\u5934\u56fe\n\n\n\u7b49\u4e8e avtar\n\n\n\n\n\n\ntel\n\n\n\u624b\u673a\u53f7\n\n\n\n\n\n\n\n\ngender\n\n\n\u6027\u522b\n\n\n0\u672a\u77e5\uff0c1\u7537\uff0c2\u5973", 
             "title": "user"
         }, 
         {
             "location": "/entity/user/#user", 
-            "text": "\u5b57\u6bb5  \u63cf\u8ff0  \u7ea6\u675f      id  UID  \u6574\u6570    name  \u7528\u6237\u540d  100\u4e2a\u5b57\u7b26\u4ee5\u5185    profile_image_url  \u7528\u6237\u5934\u56fe", 
+            "text": "\u5b57\u6bb5  \u63cf\u8ff0  \u7ea6\u675f      id  UID  \u6574\u6570    name  \u7528\u6237\u540d  100\u4e2a\u5b57\u7b26\u4ee5\u5185    profile_image_url  \u7528\u6237\u5934\u56fe  \u7b49\u4e8e avtar    tel  \u624b\u673a\u53f7     gender  \u6027\u522b  0\u672a\u77e5\uff0c1\u7537\uff0c2\u5973", 
             "title": "USER"
         }, 
         {
