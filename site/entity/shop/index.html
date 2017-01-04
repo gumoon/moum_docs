@@ -149,7 +149,7 @@
 <tr>
 <td align="left">type_id</td>
 <td align="left">子分类ID</td>
-<td align="left">如：外卖下的炸鸡</td>
+<td align="left">外卖的分类从0-4，全部为99</td>
 </tr>
 <tr>
 <td align="left">type_name</td>
@@ -174,12 +174,12 @@
 <tr>
 <td align="left">lat</td>
 <td align="left">纬度</td>
-<td align="left"></td>
+<td align="left">范围：-90至90</td>
 </tr>
 <tr>
 <td align="left">lng</td>
 <td align="left">经度</td>
-<td align="left"></td>
+<td align="left">范围：-180至180</td>
 </tr>
 <tr>
 <td align="left">addr</td>
@@ -204,7 +204,7 @@
 <tr>
 <td align="left">distance</td>
 <td align="left">距离</td>
-<td align="left">离当前位置的距离</td>
+<td align="left">距离当前位置的距离,当当前位置获取不到时，客户端请传递的坐标均设置为0，则距离返回空字符串。</td>
 </tr>
 <tr>
 <td align="left">comments_count</td>
